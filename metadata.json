@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Help",
+  "description": "An AI assistant for students providing notes, summaries, answers, and math solutions. Supports image analysis and a 'thinking mode' for complex queries.",
+  "requestFramePermissions": []
+}
